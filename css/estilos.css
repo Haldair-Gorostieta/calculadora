@@ -1,0 +1,49 @@
+#body{
+	background-color:#000;
+	width: 100%; 
+	height: 100%; 
+	 
+	}
+#pantalla { 
+	color:#FFF; 
+	text-align:right;
+	float:center; 
+	width: 50%; 
+	height: 100px; 
+	margin:5% 15% 0% 15%; 
+	background-color:black; 
+	padding: 10px 10px 10px 10px;} 
+/*margin: arriba,derecha,abajo,izquierda*/
+#teclas{
+	background-color:#2D2d2d; 
+	width: 50%; 
+	height: 400px; 
+	margin: 0% 15% 2% 15%; 
+	padding: 10px 10px 10px 10px;}
+#bf{
+	text-align:center;
+	 
+	float:left;
+	border-radius: 100px; 
+	width: 70px; 
+	margin: 4% 2% 5% 0%; 
+	padding: 10px 10px 10px 10px;}
+#bnegro{
+	text-align:center;
+	color:white; 
+	float:left;
+	border-radius: 100px; 
+	width: 135%; 
+	height: 60%; 
+	margin: 4% 10% 5% 10%; 
+	background-color: #1c1f23; 
+	padding: 10px 10px 10px 10px;}
+#bnaranja{
+	text-align:center;
+	float:left;
+	border-radius: 100px; 
+	width: 135%; 
+	height: 60%; 
+	margin: 4% 10% 5% 10%; 
+	background-color:#ffc107;
+	padding: 10px 10px 10px 10px;}
